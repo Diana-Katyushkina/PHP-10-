@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Диана Катюшкина</title>
+    <title>Лабораторная №10, вариант 7</title>
     <meta charset="utf-8">
     </head>
 <body>
